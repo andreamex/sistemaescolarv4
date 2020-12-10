@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bulma": "^0.9.1"
+  },
+  "name": "sistemaescolarv4",
+  "version": " composer require slim/slim:\"4.*\" slim/psr7",
+  "main": "index.js",
+  "license": "MIT"
+}
